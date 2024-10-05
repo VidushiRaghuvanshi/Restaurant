@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Document</title>
+<link
+
+href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+
+rel="stylesheet" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+<style>
+    .container-fluid{
+        background-color: black;
+    }
+    h2{
+    color: goldenrod;
+    font-family: f ;
+    }
+    button{
+        border-radius: 50vh;
+        height: 40px;
+        background-color: goldenrod;  
+    }
+</style>
+</head>
+<body>
+    <div class="container-fluid navigation pt-5">
+        <div class="row">
+            <img src="forkspoon.png" width="100px">
+            <h2 class="d-inline">FORK & SPOON</h2>
+        </div>
+        <div class="row">
+            <div class="col-3 d-inline">
+                <a href="#MENU" class=" navigation-link"> MENU</a>
+                        </div>
+                        <div class="col-3 d-inline ">
+                            <a href="#CATERING" class="navigation-link">CATERING</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#BOOK A TABLE" class="navigation-link">BOOK A TABLE</a>
+                        </div>
+                            <div class="col-3 d-inline" id="demo">
+                                <a href="#ORDER FOOD" class="navigation-link">ORDER FOOD</a>
+                           </div>
+                           <div class="col-3 d-inline">
+                            <a href="#FOOD RECIPE" class="navigation-link">FOOD RECIPE</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#ABOUT" class="navigation-link">ABOUT</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#CONTACT" class="navigation-link">CONTACT</a>
+                        </div>
+                        <div class="col-3 d-inline" id="demo">
+                            <a href="#SHARE" class="navigation-link">SHARE</a>
+                        </div>
+                        </div>
+                        <br>
+                            <div><h3 class="text-white text-center">WELCOME TO FORK & SPOON! </h3>
+                                <p class="text-white text-center"> This restaurant gives you best Indian Cuisine with amazing 360% view...</p>
+                                <button class="text-center">BOOK A TABLE</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                        <div class="container-fluid navigation pt-5">
+
+                        </div>
+</body>
